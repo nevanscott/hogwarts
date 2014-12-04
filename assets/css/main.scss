@@ -4,15 +4,15 @@
 @import 'normalize';
 @import 'syntax';
 
-$sans:		'Karla', sans-serif;
-$serif:		Georgia, serif;
+$sans:		'Whitney SSm A', 'Whitney SSm B';
+$lh:			1.7;
 
 /* General */
 
 body {
-	font-family: $serif;
+	font-family: $sans;
 	font-size: 87.5%;
-	line-height: 1.5;
+	line-height: $lh;
 	padding: 0 0 10%;
 	background: white;
 	color: #333;
@@ -20,7 +20,7 @@ body {
 
 .admin {
 	opacity: 0;
-	margin-bottom: -1.5em;
+	margin-bottom: -1em * $lh;
 	&:hover {
 		opacity: 1;
 	}
@@ -58,11 +58,10 @@ h1 small {
 	font-weight: bold;
 }
 h2 {
-	margin-top: 1.5em;
-	font-weight: normal;
+	margin-top: 1em * $lh;
 }
 h3 {
-	margin-top: 1.5em;
+	margin-top: 1em * $lh;
 }
 h4 {
 	margin-top: 2em;
@@ -73,36 +72,36 @@ h4 {
 }
 
 p {
-  margin: 1.7em 0;
+  margin: 1em*$lh 0;
 }
 
 blockquote {
 	color: #666;
 	border-left: 2px solid #EEE;
-	margin: 1.5em 1.5em 1.5em .75em;
+	margin: 1em*$lh 1em*$lh 1em*$lh .5em*$lh;
 	padding: 0 0 0 .75em;
 }
 
 ul {
 	list-style: square;
 	padding: 0;
-	margin-left: 1.5em;
+	margin-left: 1em*$lh;
 }
 
 li {
-  margin: .75em 0;
+  margin: .5em*$lh 0;
 }
 li p {
-  margin: .75em 0;
+  margin: .5em*$lh 0;
 }
 
 dt {
 	font-weight: bold;
 }
 dd {
-	margin: 0 1.5em 1.5em;
+	margin: 0 1em*$lh 1em*$lh;
 	p {
-		margin: .5em 0;
+		margin: .5em*$lh 0;
 	}
 }
 
@@ -161,7 +160,7 @@ small a {
 }
 
 #main {
-  margin-top: 1.5em;
+  margin-top: 1em*$lh;
 }
 
 footer {
@@ -223,14 +222,14 @@ article {
 				color: inherit;
 			}
   	}
-  	margin: 1.5em 0;
+  	margin: 1em*$lh 0;
   }
 }
 
 #nav {
   border-top: 2px solid rgba(0,0,0,.1);
   li {
-		margin: .25em 0;  
+		margin: .2em*$lh 0;  
   }
 }
 
@@ -284,9 +283,6 @@ table.calendar {
 	}
 }
 @media screen and (min-width: 55em) {
-  body {
-  	font-size: 120%;
-  }
   #page-header {
     text-align: left;
   }
@@ -299,9 +295,9 @@ table.calendar {
     width: 30%;
     font-size: .875em;
     padding-left: 2%;
-    padding-bottom: 1.7em;
+    padding-bottom: 1.2em*$lh;
     position: relative;
-    margin-top: 1.5em;
+    margin-top: 1em*$lh;
     border: none;
   }
   #nav:before {
