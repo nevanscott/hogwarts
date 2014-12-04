@@ -5,6 +5,10 @@ number: 5
 date: Dec. 1, 2014
 
 resources:
+  videos:
+    -
+      url: https://www.youtube.com/watch?v=oP3c1h8v2ZQ
+      title: Kurt Vonnegut on the Shapes of Stories
   books:
     -
       title: Understanding Comics
