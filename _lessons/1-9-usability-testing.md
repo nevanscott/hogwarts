@@ -6,17 +6,6 @@ date: Dec. 1, 2014
 
 deck: https://drive.google.com/file/d/0B0OuXLk15FlpRlNGeUlVeDJTSk0/view?usp=sharing
 
-Tips for testing: 
-    -
-      1) Intoduce your test subject to what they should expect:
-        - Keep your user comfortable: "Thanks for being a part of my usability test! One thing you should remember is that this might not work the way you expect because it is a prototype, which baiscally means we are testing the app and not you!"
-        - If your app puts a user in the middle of a flow give a scenario: "Imagine you are opening an email app that you have used 100 times before..." OR "Imagine you are using a to-do list app that you downloaded recently and are about to..."
-        - Remind users to think aloud at the beginning of the test: "As you click through the app, talk out loud about what you are thinking and what you expect to see when you tap on something, if something happens that you didnt expect, go ahead and tell me" Also be sure to remind users throughout the test if they get quiet: "What is going on in this screen?" OR "What did you expect just then?"
-      2) After your introduction give the user a specific task. If they need reminding, repeat the task verbatim. Remember you want to take as much variability out of the equation as possible.
-      3) The user is done when they think they are done. It is a finding if the user cant tell they have finished the task. So if they say "Is that it?" you should say either "You tell me" OR "What do you think?" If it comes to this point thank them and move on to the next test. 
-
-
-
 resources:
   videos:
     -
@@ -85,3 +74,14 @@ terms:
     definition: TK
 
 ---
+
+## Tips for testing
+
+1. Intoduce your test subject to what they should expect:
+    * Keep your user comfortable: "Thanks for being a part of my usability test! One thing you should remember is that this might not work the way you expect because it is a prototype, which baiscally means we are testing the app and not you!"
+    * If your app puts a user in the middle of a flow give a scenario: "Imagine you are opening an email app that you have used 100 times before..." OR "Imagine you are using a to-do list app that you downloaded recently and are about to..."
+    * Remind users to think aloud at the beginning of the test: "As you click through the app, talk out loud about what you are thinking and what you expect to see when you tap on something, if something happens that you didnt expect, go ahead and tell me" Also be sure to remind users throughout the test if they get quiet: "What is going on in this screen?" OR "What did you expect just then?"
+
+2. After your introduction give the user a specific task. If they need reminding, repeat the task verbatim. Remember you want to take as much variability out of the equation as possible.
+
+3. The user is done when they think they are done. It is a finding if the user cant tell they have finished the task. So if they say "Is that it?" you should say either "You tell me" OR "What do you think?" If it comes to this point thank them and move on to the next test. 
