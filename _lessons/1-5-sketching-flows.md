@@ -5,15 +5,7 @@ number: 5
 date: Dec. 1, 2014
 
 resources:
-  
-  tools:
-    -
-      url: http://store.copicmarker.com/products/c3-s
-      title: C3 Copic Sketch Cool Gray
-    -
-      url: http://store.copicmarker.com/products/n3-s
-      title: N3 Copic Sketch Neutral Gray
-  
+    
   videos:
     -
       url: https://www.youtube.com/watch?v=oP3c1h8v2ZQ
