@@ -4,6 +4,8 @@ week: 1
 number: 6
 date: Dec. 1, 2014
 
+deck: https://drive.google.com/file/d/0B8UPNtfhw4FPd1BpUm1MbHp2dWs/view?usp=sharing
+
 resources:
   
   tools:

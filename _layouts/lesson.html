@@ -2,6 +2,10 @@
 layout: page
 ---
 
+{% if page.deck %}
+	<a target="_blank" href="{{ page.deck }}">View the Deck</a>
+{% endif %}
+
 {{ content }}
 
 {% if page.resources %}
