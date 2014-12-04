@@ -7,6 +7,7 @@ layout: page
 {% if page.resources %}
 	<h2>Additional Resources</h2>
 	{% include resources_list.html list=page.resources %}
+	{% include resources_list.html list=page.resources.tools title="Tools" %}
 	{% include resources_list.html list=page.resources.books title="Books" %}
 	{% include resources_list.html list=page.resources.apps title="Apps" %}
 	{% include resources_list.html list=page.resources.services title="Services" %}
