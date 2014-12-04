@@ -9,6 +9,9 @@ resources:
     -
       url: https://www.youtube.com/watch?v=oP3c1h8v2ZQ
       title: Kurt Vonnegut on the Shapes of Stories
+      see:
+        url: http://www.brainpickings.org/2012/11/26/kurt-vonnegut-on-the-shapes-of-stories/
+        title: Maria Popova’s thoughts
   books:
     -
       title: Understanding Comics
