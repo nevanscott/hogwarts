@@ -21,26 +21,36 @@
   </ul>
 {% endfor %}
 
-{% if page.collection == 'lessons' %}
-<h4>Week {{ page.week }}</h4>
-<ol>
-{% for p in site.lessons %}
-	{% if p.url == page.url %}
-		{% assign c = "current" %}
-	{% else %}
-		{% assign c = "" %}
-	{% endif %}
-	{% if p.week == page.week %}
-		<li class="{{ c }}">
-			<a href="{{ p.url }}">
-				{{ p.title }}
-			</a>
-		</li>
-	{% endif %}
+{% for w in site.weeks %}
+	{% unless w.disabled %}
+	<h4>
+		<small>Week {{ w.number }}</small>
+		<br>
+		{{ w.title }}
+	</h4>
+	<ol>
+	{% for p in site.lessons %}
+		{% if p.url == page.url %}
+			{% assign c = "current" %}
+		{% else %}
+			{% assign c = "" %}
+		{% endif %}
+		{% if p.week == w.number %}
+			<li class="{{ c }}">
+				<a href="{{ p.url }}">
+					{{ p.title }}
+				</a>
+			</li>
+		{% endif %}
+	{% endfor %}
+	</ol>
+	{% endunless %}
 {% endfor %}
-</ol>
-{% endif %}
 
+<h4>…More to Come!</h4>
+
+
+<!-- 
 <h4>Weeks</h4>
 <ol>
 {% for p in site.weeks %}
@@ -54,6 +64,7 @@
 	{% endunless %}
 {% endfor %}
 </ol>
+ -->
 
 <!-- 
 <h4>Projects</h4>
