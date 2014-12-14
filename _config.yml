@@ -1,4 +1,5 @@
 baseurl: ''
+domain: 'http://phasers.uxdi.club'
 permalink: /:categories/:title/
 collections:
   projects:
