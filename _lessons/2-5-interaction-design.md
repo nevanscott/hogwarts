@@ -12,6 +12,13 @@ resources:
       type: book
       title: About Face 3
       author: Alan Cooper
+  
+  examples:
+    -
+      url: http://www.guidebookgallery.org
+      title: "GUIdebook: Graphical User Interface Gallery"
+      author: Marcin Wichary
+  
   articles:
     - url: http://www.looksgoodworkswell.com/
       title: Bill Scott’s Blog
@@ -38,6 +45,16 @@ resources:
       resources:
         - url: http://boxesandarrows.com/an-introduction-to-user-journeys/
         - url: http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout
+    -
+      heading: GUI
+      resources:
+        -
+          url: http://thingsofinterest.com/2014/10/22/difference-30-years-makes-imac-retina-5k-display-vs-original-macintosh/
+          title: "The Difference 30 Years Makes: iMac with Retina 5K display vs. the Original Apple Macintosh"
+        -
+          url: http://www.folklore.org/StoryView.py?project=Macintosh&story=Desk_Ornaments.txt&sortOrder=Sort+by+Date&topic=Software+Design
+          title: Desk Ornaments
+          author: Andy Hertzfeld
 
 
 terms:

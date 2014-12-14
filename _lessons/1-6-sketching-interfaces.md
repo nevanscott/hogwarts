@@ -8,6 +8,21 @@ deck: https://drive.google.com/file/d/0B8UPNtfhw4FPd1BpUm1MbHp2dWs/view?usp=shar
 
 resources:
   
+  guides:
+    -
+      url: https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html#//apple_ref/doc/uid/TP40014992-CH3-SW1
+      title: Apple Watch Human Interface Guidelines
+  
+  articles:
+    -
+      url: http://furbo.org/2014/11/20/a-day-with-apple-watch/
+      title: A day with WATCH
+      author: Craig Hockenberry 
+    -
+      url: http://culturedcode.com/things/blog/2008/06/a-phone-an-ipod-an-internet-communicator-and-a-full-featured-task-manager.html
+      title: A Phone, an iPod, an Internet Communicator, and a Full-Featured Task Manager!
+      author: Things Blog
+  
   tools:
     -
       url: http://store.copicmarker.com/products/c3-s
@@ -15,6 +30,13 @@ resources:
     -
       url: http://store.copicmarker.com/products/n3-s
       title: N3 Copic Sketch Neutral Gray
+    -
+      url: http://interactivelogic.net/wp/2009/09/iphone-wireframe-templates/
+      title: iPhone Wireframe Templates for Sketching
+      author: Evan K. Stone
+    -
+      url: https://popapp.in/sketchpad/
+      title: Sketch Pad templates from POP
   
   videos:
     -
