@@ -8,15 +8,20 @@ permalink: /contact/
 <h2>Students</h2>
 
 <ul>
-{% for student in site.data.students %}
+{% for s in site.data.students %}
+	{% assign student = s[1] %}
 	<li>
-		{{ student.first }} {{ student.last }}
+		{% if student.url %}
+			<a href="{{ student.url }}">{{ student.first }} {{ student.last }}</a>
+		{% else %}
+			{{ student.first }} {{ student.last }}		
+		{% endif %}
 		<small>
-			{% if student.twitter %}
-				(<a href="https://twitter.com/{{ student.twitter }}">@{{ student.twitter }}</a>)
-			{% endif %}
 			{% if student.tumblr %}
 				(<a href="https://{{ student.tumblr }}.tumblr.com/">{{ student.tumblr }}.tumblr.com</a>)
+			{% endif %}
+			{% if student.twitter %}
+				(<a href="https://twitter.com/{{ student.twitter }}">@{{ student.twitter }}</a>)
 			{% endif %}
 		</small>
 	</li>
