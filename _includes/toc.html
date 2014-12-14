@@ -10,9 +10,10 @@
     {% for p in site.lessons %}
       {% if p.week == w.number %}
         <li>
-          <a href="{{ p.url }}">
-            {{ p.title }}
-          </a>
+          <a href="{{ p.url }}">{{ p.title }}</a>
+          {% if p.deck %}
+          	<small>— <a href="{{ p.deck }}" target="_blank">View the Deck</a></small>
+          {% endif %}
         </li>
       {% endif %}
     {% endfor %}
