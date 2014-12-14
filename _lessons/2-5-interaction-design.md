@@ -4,6 +4,8 @@ week: 2
 number: 5
 date: Dec. 1, 2014
 
+deck: https://drive.google.com/file/d/0B0OuXLk15FlpSW5QVV9xNTUtbFU/view?usp=sharing
+
 resources:
   books:
     -

@@ -4,6 +4,8 @@ week: 2
 number: 6
 date: Dec. 1, 2014
 
+deck: https://drive.google.com/file/d/0B8UPNtfhw4FPTjc2LTlyOHhiLTQ/view?usp=sharing
+
 resources:
   articles:
     - url: http://en.wikipedia.org/wiki/Gestalt_psychology
