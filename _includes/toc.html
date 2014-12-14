@@ -3,10 +3,8 @@
 {% for w in site.weeks %}
 	{% unless w.disabled %}
     <h4>
-      <a href="{{ w.url }}">
-        Week {{ w.number }}:
-        {{ w.title }}
-      </a>
+			Week {{ w.number }}:
+			{{ w.title }}
     </h4>
     <ol>
     {% for p in site.lessons %}

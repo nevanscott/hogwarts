@@ -23,12 +23,14 @@ defaults:
       type: "weeks"
     values:
       layout: "week"
+      section: "notes"
   -
     scope:
       path: ""
       type: "lessons"
     values:
       layout: "lesson"
+      section: "notes"
 relative_permalinks: false
 markdown: redcarpet
 future: true

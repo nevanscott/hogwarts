@@ -7,7 +7,7 @@ layout: default
 		{% if page.week %}
 			{% for week in site.weeks %}
 				{% if week.number == page.week %}
-					<h4><a href="{{ week.url }}">&larr; Week {{ week.number }}: {{ week.title }}</a></h4>
+					<h4>Week {{ week.number }}: {{ week.title }}</h4>
 					{% assign c = "current" %}
 				{% endif %}
 			{% endfor %}

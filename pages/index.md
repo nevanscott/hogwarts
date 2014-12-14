@@ -2,7 +2,6 @@
 layout: page
 title: Welcome
 permalink: /
-toc: true
 ---
 
 <img src="{{ site.baseurl }}/assets/images/phasers.gif">
