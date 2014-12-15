@@ -19,7 +19,7 @@
 			(See
 				{% if r.see.title %}
 					<a href="{{ r.see.url }}">{{ r.see.title }}</a>{% else %}
-					<a href="{{ r.see.url }}">{{ r.see.url }}</a>{% endif %})
+					<a href="{{ r.see.url }}">{{ r.see.url }}</a>{% endif %}{% if r.see.author %} by {{ r.see.author }}{% endif %})
 			</small>
 		{% endif %}
 		{% if r.note %}
