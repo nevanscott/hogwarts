@@ -2,8 +2,15 @@
 layout: page
 ---
 
-{% if page.deck %}
-	<a target="_blank" href="{{ page.deck }}">View the Deck</a>
+{% if page.decks %}
+	<p>
+	View the decks:
+	<a target="_blank" href="{{ page.decks.haba }}">Habaneros</a>
+	&bull;
+	<a target="_blank" href="{{ page.decks.jala }}">Jalapeños</a>
+	</p>
+{% elsif page.deck %}
+	<p><a target="_blank" href="{{ page.deck }}">View the Deck</a></p>
 {% endif %}
 
 {{ content }}

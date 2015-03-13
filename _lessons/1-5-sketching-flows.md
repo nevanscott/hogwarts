@@ -2,7 +2,6 @@
 title: Sketching User Flows & Screen Flows
 week: 1
 number: 5
-date: Dec. 1, 2014
 
 deck: https://drive.google.com/file/d/0B8UPNtfhw4FPUUZ4XzE3clJVVDA/view?usp=sharing
 

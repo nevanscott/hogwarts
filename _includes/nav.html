@@ -1,3 +1,17 @@
+<h4>Projects</h4>
+<ol>
+{% for p in site.projects %}
+	{% if p.url == page.url %}
+		{% assign c = "current" %}
+	{% else %}
+		{% assign c = "" %}
+	{% endif %}
+	{% unless p.disabled %}
+	<li class="{{ c }}"><a href="{{ p.url }}">{{ p.title }}</a></li>
+	{% endunless %}
+{% endfor %}
+</ol>
+
 {% for section in site.data.nav %}
   <h4>{{ section.section }}</h4>
   <ul>
@@ -66,18 +80,3 @@
 </ol>
  -->
 
-<!-- 
-<h4>Projects</h4>
-<ol>
-{% for p in site.projects %}
-	{% if p.url == page.url %}
-		{% assign c = "current" %}
-	{% else %}
-		{% assign c = "" %}
-	{% endif %}
-	{% unless p.disabled %}
-	<li class="{{ c }}"><a href="{{ p.url }}">{{ p.title }}</a></li>
-	{% endunless %}
-{% endfor %}
-</ol>
- -->

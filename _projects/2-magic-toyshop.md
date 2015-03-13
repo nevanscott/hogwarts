@@ -1,5 +1,5 @@
 ---
-title: Magic Toyshop
+title: E-commerce Project
 number: 2
 weeks:
   - 2
