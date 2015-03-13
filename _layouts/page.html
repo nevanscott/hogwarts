@@ -26,6 +26,14 @@ layout: default
 				</small>
 			</div>
 		{% endif %}
+		{% if page.collection == 'projects' %}
+			<div class="admin">
+				<small>
+					<a target="_blank" href="{{ site.data.course.gh_base }}_projects/{{ page.path | split:'_lessons/' | last }}">Edit</a>
+					<small>(admins only, sorry guys)</small>
+				</small>
+			</div>
+		{% endif %}
 	</header>
 	{{ content }}
 	{% if page.toc %}
