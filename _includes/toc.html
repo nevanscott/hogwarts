@@ -11,9 +11,16 @@
       {% if p.week == w.number %}
         <li>
           <a href="{{ p.url }}">{{ p.title }}</a>
-          {% if p.deck %}
-          	<small>— <a href="{{ p.deck }}" target="_blank">View the Deck</a></small>
-          {% endif %}
+					{% if p.decks %}
+						<small>—
+						View the decks:
+						<a target="_blank" href="{{ p.decks.haba }}">Habaneros</a>
+						&bull;
+						<a target="_blank" href="{{ p.decks.jala }}">Jalapeños</a>
+						</small>
+					{% elsif p.deck %}
+          	<small>— <a target="_blank" href="{{ p.deck }}">View the Deck</a></small>
+					{% endif %}
         </li>
       {% endif %}
     {% endfor %}
