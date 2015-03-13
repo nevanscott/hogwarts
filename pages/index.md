@@ -4,4 +4,6 @@ title: Welcome
 permalink: /
 ---
 
-TK
+<img src="{{ site.baseurl }}/assets/images/peppers.gif">
+
+## D'oh!
