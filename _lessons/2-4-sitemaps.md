@@ -2,9 +2,6 @@
 title: Sitemaps 101
 week: 2
 number: 4
-date: Dec. 1, 2014
-
-deck: https://drive.google.com/file/d/0B8UPNtfhw4FPQ0U2Vm5mc3FyY1k/view?usp=sharing
 
 resources:
   -

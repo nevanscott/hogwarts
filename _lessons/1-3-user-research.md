@@ -3,8 +3,6 @@ title: Conducting User Research
 week: 1
 number: 3
 
-deck: https://drive.google.com/file/d/0B0OuXLk15FlpVWctSkVxd2JCMTg/view?usp=sharing
-
 resources:
   services:
     -

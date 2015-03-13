@@ -2,9 +2,6 @@
 title: Business Basics & Metrics
 week: 2
 number: 2
-date: Dec. 1, 2014
-
-deck: https://drive.google.com/file/d/0B0OuXLk15FlpMllTTVNQai03TDQ/view?usp=sharing
 
 resources:
   articles:

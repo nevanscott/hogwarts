@@ -2,9 +2,6 @@
 title: Creating Clickable Prototypes
 week: 3
 number: 3
-date: Dec. 1, 2014
-
-deck: https://drive.google.com/file/d/0B0OuXLk15FlpbjVkRFM1VEw2R2M/view?usp=sharing
 
 resources:
   apps:

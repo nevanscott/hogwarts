@@ -3,8 +3,6 @@ title: Introduction to Prototyping
 week: 1
 number: 7
 
-deck: https://drive.google.com/file/d/0B0OuXLk15FlpRlNGeUlVeDJTSk0/view?usp=sharing
-
 resources:
   apps:
     -

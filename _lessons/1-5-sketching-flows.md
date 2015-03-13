@@ -3,8 +3,6 @@ title: Sketching User Flows & Screen Flows
 week: 1
 number: 5
 
-deck: https://drive.google.com/file/d/0B8UPNtfhw4FPUUZ4XzE3clJVVDA/view?usp=sharing
-
 resources:
     
   videos:

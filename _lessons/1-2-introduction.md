@@ -3,8 +3,6 @@ title: Introduction to User Experience Design
 week: 1
 number: 2
 
-deck: https://drive.google.com/file/d/0B0OuXLk15FlpbFBnX1JJVjRBOGs/view?usp=sharing
-
 resources:
   articles:
     -

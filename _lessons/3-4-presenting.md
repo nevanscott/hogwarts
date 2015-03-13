@@ -2,9 +2,6 @@
 title: Presenting Your Designs
 week: 3
 number: 4
-date: Dec. 1, 2014
-
-deck: https://drive.google.com/file/d/0B8TjAgG3vFgrOG82ZG80Mi1QMG8/view?usp=sharing
 
 resources:
   articles:

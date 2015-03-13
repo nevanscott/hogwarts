@@ -2,7 +2,6 @@
 title: Wireframing
 week: 2
 number: 8
-date: Dec. 1, 2014
 
 resources:
   articles:

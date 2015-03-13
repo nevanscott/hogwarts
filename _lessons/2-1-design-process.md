@@ -3,8 +3,6 @@ title: The Design Process
 week: 2
 number: 1
 
-deck: https://drive.google.com/file/d/0B0OuXLk15FlpMXBUR19XMVJCeEU/view?usp=sharing
-
 resources:
   articles:
     -

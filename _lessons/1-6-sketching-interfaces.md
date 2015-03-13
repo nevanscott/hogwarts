@@ -3,8 +3,6 @@ title: Sketching Interfaces
 week: 1
 number: 6
 
-deck: https://drive.google.com/file/d/0B8UPNtfhw4FPd1BpUm1MbHp2dWs/view?usp=sharing
-
 resources:
   
   guides:
