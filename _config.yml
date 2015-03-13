@@ -1,5 +1,5 @@
 baseurl: ''
-domain: 'http://phasers.uxdi.club'
+domain: 'http://peppers.uxdi.club'
 permalink: /:categories/:title/
 collections:
   projects:
