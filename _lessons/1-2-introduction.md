@@ -3,6 +3,10 @@ title: Introduction to User Experience Design
 week: 1
 number: 2
 
+decks:
+  jala: #
+  haba: https://drive.google.com/file/d/0B4_dUIH6mEXZZUl3d1A1TnJXX00/view?usp=sharing
+  
 resources:
   articles:
     -
