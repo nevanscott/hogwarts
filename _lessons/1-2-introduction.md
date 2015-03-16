@@ -4,7 +4,7 @@ week: 1
 number: 2
 
 decks:
-  jala: #
+  jala: https://drive.google.com/file/d/0B_NUjZdoLlXDc2FEZ0FFOUlXRGM/view?usp=sharing
   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZZUl3d1A1TnJXX00/view?usp=sharing
   
 resources:
