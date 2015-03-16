@@ -10,6 +10,6 @@ number: 1
 # 
 decks:
   jala: #
-  haba: https://drive.google.com/open?id=0B4_dUIH6mEXZUnhEdVNqNE5Kak0&authuser=0
+  haba: https://drive.google.com/file/d/0B4_dUIH6mEXZUnhEdVNqNE5Kak0/view?usp=sharing
 
 ---
