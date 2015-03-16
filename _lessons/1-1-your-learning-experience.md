@@ -8,8 +8,8 @@ number: 1
 # 
 # deck: https://drive.google.com/file/d/0B8TjAgG3vFgrTFZWRzQzdU5aNVE/view?usp=sharing
 # 
- decks:
-   jala: https://drive.google.com/file/d/0B8TjAgG3vFgrTFZWRzQzdU5aNVE/view?usp=sharing
-   haba: https://drive.google.com/open?id=0B4_dUIH6mEXZUnhEdVNqNE5Kak0&authuser=0
+decks:
+  jala: #
+  haba: https://drive.google.com/open?id=0B4_dUIH6mEXZUnhEdVNqNE5Kak0&authuser=0
 
 ---
