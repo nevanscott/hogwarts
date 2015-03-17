@@ -15,18 +15,18 @@ terms:
 
 ## Outline of what we did to synthesize findings from our interviews and develop & prioritize a set of features
 
-* Synthesize with Affinity Mapping
-    * Make post-its of your findings from your interviews
-    * Start grouping them to identify patterns, creating labels for your groupings as you go
-    * Grouping ideas:
+1. Synthesize with Affinity Mapping
+    1. Make post-its of your findings from your interviews
+    2. Start grouping them to identify patterns, creating labels for your groupings as you go
+    3. Grouping ideas:
         * Demographic segments
         * Degree of Motivation
         * Time
         * Place
         * Amount of Labor in a Behavior
-    * Record common problems that you see
-* Generate features:
+    4. Record common problems that you see
+2. Generate features:
     * Users will be able to...
-* Prioritize
+3. Prioritize
     * High priority to low priority
     * Easy to Difficult
