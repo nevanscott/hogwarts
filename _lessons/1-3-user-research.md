@@ -3,6 +3,9 @@ title: Conducting User Research
 week: 1
 number: 3
 
+decks:
+  jala: https://drive.google.com/file/d/0B_NUjZdoLlXDNFdkZzRkRFJicWM/view?usp=sharing
+
 resources:
   services:
     -
