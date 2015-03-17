@@ -1,5 +1,5 @@
 ---
-title: Participatory Design
+title: Interview Synthesis & Analysis
 week: 1
 number: 4
 
