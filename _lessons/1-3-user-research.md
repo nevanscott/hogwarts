@@ -8,6 +8,13 @@ decks:
   jala: https://drive.google.com/file/d/0B_NUjZdoLlXDNFdkZzRkRFJicWM/view?usp=sharing
 
 resources:
+  
+  articles:
+    -
+      title: Interviewing Humans
+      url: http://alistapart.com/article/interviewing-humans
+      author: Erika Hall
+  
   services:
     -
       title: UserTesting
