@@ -3,6 +3,12 @@ title: Interview Synthesis & Analysis
 week: 1
 number: 4
 
+resources:
+  articles:
+    -
+      title: Affinity Diagramming
+      url: http://dux.typepad.com/files/Method%2022%20of%20100.pdf
+
 terms:
   - term: Participatory Design
     definition: A method of involving users, stakeholders, and other non-designers in the design process in order to better translate their needs into visual solutions.
