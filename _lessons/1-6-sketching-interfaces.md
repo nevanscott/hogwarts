@@ -47,4 +47,5 @@ terms:
 ---
 
 decks:
-  haba: https://drive.google.com/file/d/0B4_dUIH6mEXZQWVrUDVJMGxIRzA/view?usp=sharing
+   jala: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZQWVrUDVJMGxIRzA/view?usp=sharing
