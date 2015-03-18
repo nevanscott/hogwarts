@@ -41,4 +41,7 @@ terms:
   - term: JJG Elements
     definition: Refer to http://www.jjg.net/ia/visvocab/ for a complete description of each element.
 
+decks:
+  jala: #
+  haba: https://drive.google.com/file/d/0B4_dUIH6mEXZV3lCMW56VFQ2alE/view?usp=sharing
 ---
