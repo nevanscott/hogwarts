@@ -3,6 +3,10 @@ title: Paper Prototyping
 week: 1
 number: 8
 
+decks:
+   jala: https://drive.google.com/a/generalassemb.ly/file/d/0B_NUjZdoLlXDbjQ4T1JpRVVyeWs/view?usp=sharing
+   haba: #
+
 resources:
   videos:
     - url: http://www.youtube.com/watch?v=GrV2SZuRPv0
