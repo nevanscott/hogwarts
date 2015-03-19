@@ -3,6 +3,9 @@ title: Sketching User Flows & Screen Flows
 week: 1
 number: 5
 
+decks:
+  jala: https://drive.google.com/a/generalassemb.ly/file/d/0B_NUjZdoLlXDQW5PTDlyQ1dwTWs/view?usp=sharing
+
 resources:
     
   videos:
