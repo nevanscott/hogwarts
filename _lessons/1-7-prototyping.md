@@ -10,14 +10,17 @@ decks:
 resources:
   apps:
     -
+      title: Marvel
+      url: https://marvelapp.com/
+    -
+      title: POP
+      url: https://popapp.in   
+    -
       title: Keynote
       url: https://www.apple.com/mac/keynote/
     -
       title: Powerpoint
       url: http://products.office.com/en-us/powerpoint
-    -
-      title: POP
-      url: https://popapp.in
     -
       title: Axure
       url: http://www.axure.com
