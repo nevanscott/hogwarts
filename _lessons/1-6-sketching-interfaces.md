@@ -3,6 +3,10 @@ title: Sketching Interfaces
 week: 1
 number: 6
 
+decks:
+   jala: https://drive.google.com/a/generalassemb.ly/file/d/0B_NUjZdoLlXDNGEtU09RVWg4djQ/view?usp=sharing
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZQWVrUDVJMGxIRzA/view?usp=sharing
+
 resources:
   
   guides:
@@ -44,9 +48,7 @@ terms:
   - term: Wireflows
     definition: User flow diagrams that use thumbnail wireframes to represent the pages.
 
-decks:
-   jala: #
-   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZQWVrUDVJMGxIRzA/view?usp=sharing
+
 ---
 
 
