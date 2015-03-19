@@ -5,7 +5,7 @@ number: 8
 
 decks:
    jala: https://drive.google.com/a/generalassemb.ly/file/d/0B_NUjZdoLlXDRHRiODVCT1FHcHc/view?usp=sharing
-   haba: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZaS1VU0xZM29GcUk/view?usp=sharing
 
 resources:
   videos:
