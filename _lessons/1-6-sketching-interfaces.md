@@ -26,10 +26,10 @@ resources:
   
   tools:
     -
-      url: http://store.copicmarker.com/products/c3-s
+      url: https://imaginationinternationalinc.com/copic/store/products/c3-s/
       title: C3 Copic Sketch Cool Gray
     -
-      url: http://store.copicmarker.com/products/n3-s
+      url: https://imaginationinternationalinc.com/copic/store/products/n3-s/
       title: N3 Copic Sketch Neutral Gray
     -
       url: http://interactivelogic.net/wp/2009/09/iphone-wireframe-templates/
