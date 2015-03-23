@@ -3,6 +3,10 @@ title: Business Basics & Metrics
 week: 2
 number: 2
 
+decks:
+  haba: https://drive.google.com/file/d/0B4_dUIH6mEXZUWsydmlBbkY1WTg/view?usp=sharing
+  jala: #
+
 resources:
   articles:
     - heading: Business Models
