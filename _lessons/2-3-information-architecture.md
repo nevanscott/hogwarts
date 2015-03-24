@@ -3,6 +3,10 @@ title: Introduction to Information Architecture
 week: 2
 number: 3
 
+decks:
+   jala: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZSjR1RnpydWtXN0k/view?usp=sharing
+  
 resources:
   articles:
     -
