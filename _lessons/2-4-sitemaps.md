@@ -3,6 +3,9 @@ title: Sitemaps 101
 week: 2
 number: 4
 
+decks:
+   jala: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZWFVlWlMwX2ZJOEE/view?usp=sharing
 resources:
   -
     title: Hierarchy
