@@ -3,6 +3,10 @@ title: Web Layout 101
 week: 2
 number: 6
 
+decks: 
+   jala: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZRExWWnhFNnZ5N0k/view?usp=sharing
+
 resources:
   articles:
     - url: http://en.wikipedia.org/wiki/Gestalt_psychology
