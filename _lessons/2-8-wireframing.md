@@ -3,6 +3,10 @@ title: Wireframing
 week: 2
 number: 8
 
+decks: 
+   jala: https://drive.google.com/open?id=0B_NUjZdoLlXDdE9BVmhEcXdJdUU&authuser=0
+   haba: #
+
 resources:
   articles:
     - url: http://www.smashingmagazine.com/2009/09/01/35-excellent-wireframing-resources/
