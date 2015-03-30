@@ -3,6 +3,10 @@ title: Navigation
 week: 3
 number: 1
 
+decks:
+   jala: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZLS1SME5lakdMTEU/view?usp=sharing
+
 resources:
   books:
     -
