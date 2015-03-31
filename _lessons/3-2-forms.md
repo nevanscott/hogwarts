@@ -3,6 +3,10 @@ title: Form Design
 week: 3
 number: 2
 
+decks:
+   jala: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZWHh0REJVVVItLVU/view?usp=sharing
+
 resources:
   articles:
     - 
