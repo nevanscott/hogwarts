@@ -3,6 +3,10 @@ title: Presenting Your Designs
 week: 3
 number: 4
 
+decks: 
+   jala: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZMkdsY2dHblNzUEU/view?usp=sharing
+
 resources:
   articles:
     -
