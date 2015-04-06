@@ -1,5 +1,5 @@
 ---
-disabled: true
+disabled: false
 title: Product Feature
 number: 3
 weeks:
