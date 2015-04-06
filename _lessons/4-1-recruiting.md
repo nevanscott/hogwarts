@@ -11,19 +11,27 @@ resources:
    tools:
       -
          url: http://ethn.io
+         title: Ethnio
       -
          url: http://www.userzoom.com/
+         title: UserZoom
       -
          url: http://zoomerang.com
+         title: Zoomerang
       -
          url: http://www.wufoo.com/
+         title: Wufoo
       -
          url: https://www.surveymonkey.com/
+         title: SurveyMonkey
    articles:
       -
          url: http://abetteruserexperience.com/2012/06/a-bux-walk-thru-ethnio/
+         title: 'A BUX Walk Thru: Ethnio'
+         author: Ben Snyder
       -
          url: http://www.nngroup.com/reports/how-to-recruit-participants-usability-studies/
+         title: How to Recruit Participants for Usability Studies
 
 
 terms:
