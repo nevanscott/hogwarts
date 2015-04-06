@@ -10,7 +10,7 @@ weeks:
 ## Project Decks
 
 * [Jala](https://drive.google.com/open?id=0B_NUjZdoLlXDeWlGYUpJa012UDg&authuser=0)
-
+* [Haba](https://drive.google.com/open?id=0B4_dUIH6mEXZM3Fxc25zcEdFZGs&authuser=0)
 
 ## Project Briefs
 
