@@ -5,7 +5,7 @@ number: 1
 
 decks:
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDNUpaTUp3bFQxVVU&authuser=0
-   haba: #
+   haba: https://drive.google.com/a/generalassemb.ly/file/d/0B4_dUIH6mEXZOGxQY2I0aTVLdnc/view?usp=sharing
 
 resources:
    tools:
