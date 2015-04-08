@@ -76,4 +76,5 @@ terms:
    -
       term: UML
       definition: UML stands for “Unified Modeling Language,” a visual vocabulary created in the 1990s to describe various aspects of a software system. http://en.wikipedia.org/wiki/Unified_Modeling_Language 
+      
 ---
