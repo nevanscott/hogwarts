@@ -1,5 +1,5 @@
 ---
-title: Contextual Inquiry & User Interviewing
+title: Contextual Inquiry and User Interviewing
 week: 4
 number: 3
 
