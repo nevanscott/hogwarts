@@ -35,7 +35,7 @@ resources:
       title: Interviews  
     -
       url: http://en.wikipedia.org/wiki/Affinity_diagram
-      title: Affinity diagram       
+      title: Affinity diagram (wiki)       
     -
       url: https://www.uie.com/articles/kj_technique/
       title: "The KJ-Technique: A Group Process for Establishing Priorities"
