@@ -29,7 +29,7 @@ resources:
       title: "Preparing for User Research Interviews: Seven Things to Remember"
     -
       url: http://en.wikipedia.org/wiki/Interview
-      title: Interview      
+      title: Interview (wiki)     
     -
       url: http://www.usabilitynet.org/tools/interviews.htm
       title: Interviews  
