@@ -4,11 +4,11 @@ week: 4
 number: 3
 
 decks:
-   jala: #
-   haba: #
+  jala: #
+  haba: #
 
 resources:
-  articles:
+  articles & presentations:
     -
       url: http://www.slideshare.net/edanzico/user-interview-techniques
       title: User Interview Techniques
@@ -38,7 +38,7 @@ resources:
       title: Affinity diagram       
     -
       url: https://www.uie.com/articles/kj_technique/
-      title: The KJ-Technique: A Group Process for Establishing Priorities 
+      title: "The KJ-Technique: A Group Process for Establishing Priorities"
       
       
 terms:
