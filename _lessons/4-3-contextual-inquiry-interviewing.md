@@ -8,7 +8,7 @@ decks:
   haba: #
 
 resources:
-  articles:
+  articles & presentations:
     -
       url: http://www.slideshare.net/edanzico/user-interview-techniques
       title: User Interview Techniques
