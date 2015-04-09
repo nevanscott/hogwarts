@@ -11,7 +11,7 @@ resources:
   articles:
     -
       url: http://www.slideshare.net/edanzico/user-interview-techniques
-      title: User Interview Techniques
+      title: User Interview Techniques (slideshare)
     -
       url: http://www.userfocus.co.uk/articles/videohighlights.html
       title: How to create a usability test highlights video you can be proud of
