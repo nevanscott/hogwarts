@@ -20,7 +20,7 @@ resources:
       title: "Field Studies Done Right: Fast and Observational"    
     -
       url: http://en.wikipedia.org/wiki/Contextual_inquiry
-      title: Contextual inquiry         
+      title: Contextual inquiry (wiki)       
     -
       url: https://www.interaction-design.org/encyclopedia/contextual_design.html
       title: Contextual Design
