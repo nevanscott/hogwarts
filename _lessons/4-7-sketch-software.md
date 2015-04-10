@@ -1,5 +1,5 @@
 ---
-title: Sketch 
+title: Sketch (software)
 week: 4
 number: 7
 
