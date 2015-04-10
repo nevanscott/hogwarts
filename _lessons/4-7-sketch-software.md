@@ -2,8 +2,9 @@ title: Sketch
 week: 4
 number: 7
 
-deck: 
-    - url: https://drive.google.com/open?id=0B4_dUIH6mEXZV3djc1VPNjJDaHc&authuser=0
+decks:
+   jala: https://drive.google.com/open?id=0B4_dUIH6mEXZV3djc1VPNjJDaHc&authuser=0
+   haba: https://drive.google.com/open?id=0B4_dUIH6mEXZUDF3T2FuejZXUHc&authuser=0
     
 resources:
     -
