@@ -11,7 +11,7 @@ resources:
   articles:
     -
       url: http://99u.com/articles/7183/the-yes-and-approach-less-ego-more-openness-more-possibility
-      title: "The "Yes, And…" Approach: Less Ego, More Openness, More Possibility"
+      title: "The 'Yes, And…' Approach: Less Ego, More Openness, More Possibility"
     -
       url: http://www.rhsmith.umd.edu/files/Documents/Faculty/FeatureFatigueWhenProductCapabilitiesBecomeTooMuchOfAGoodThing.pdf
       title: "Feature Fatigue: When Product Capabilities Become Too Much of a Good Thing"
@@ -29,7 +29,7 @@ resources:
       title: How DropBox Started As A Minimal Viable Product
     -
       url: https://hbr.org/2013/09/building-a-minimum-viable-prod/
-      title: Building a Minimum Viable Product? You’re Probably Doing it Wrong
+      title: "Building a Minimum Viable Product? You’re Probably Doing it Wrong"
       
 terms:
   -
