@@ -5,7 +5,7 @@ number: 1
 
 decks:
    jala: #
-   haba: #
+   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZYzlvcnRIVFMxek0/view?usp=sharing
 
 resources:
   articles:
