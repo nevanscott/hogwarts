@@ -7,7 +7,6 @@ weeks:
   - 7
 ---
 
-## Project Briefs
+## Project 4
 
-* [Jala](#)
-* [Haba](#)
+* [Brief](https://drive.google.com/open?id=0B_NUjZdoLlXDVUk5OUtEVllrcUU&authuser=0)
