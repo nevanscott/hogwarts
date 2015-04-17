@@ -7,7 +7,7 @@ weeks:
   - 7
 ---
 
-## Project Brief
+## Project Briefs
 
 * [Jala](#)
 * [Haba](#)
