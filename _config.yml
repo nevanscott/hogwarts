@@ -40,3 +40,4 @@ redcarpet:
     - 'autolink'
     - 'smart'
     - 'hard_wrap'
+    - 'tables'

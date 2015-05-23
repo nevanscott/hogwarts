@@ -1,9 +1,28 @@
 title: User Experience Design Immersive
 abbreviation: UXDI
-iteration: Peppers
+iteration: Summer ’15
 city: New York
 location: GA West, Classroom 4D
 start_date: December 1, 2014
 end_date: February 20, 2015
 
 gh_base: https://github.com/nevanscott/peppers/edit/gh-pages/
+
+start_date: June 8, 2015
+end_date: August 17, 2015
+calendar:
+  -
+    month: June
+    year: 2015
+    start: 8
+    end: 30
+  -
+    month: July
+    year: 2015
+    start: 1
+    end: 31
+  -
+    month: August
+    year: 2015
+    start: 1
+    end: 21
