@@ -1,5 +1,5 @@
 baseurl: ''
-domain: 'http://peppers.uxdi.club'
+domain: 'http://hogwarts.uxdi.club'
 permalink: /:categories/:title/
 collections:
   projects:
