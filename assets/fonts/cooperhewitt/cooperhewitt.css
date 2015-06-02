@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Cooper Hewitt';
+  font-style: normal;
+  font-weight: normal;
+  src: url('CooperHewitt-Medium.eot'); /* IE9 Compat Modes */
+  src: url('CooperHewitt-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('CooperHewitt-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+       url('CooperHewitt-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('CooperHewitt-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'CooperHewitt';
+  font-style: italic;
+  font-weight: normal;
+  src: url('CooperHewitt-MediumItalic.eot'); /* IE9 Compat Modes */
+  src: url('CooperHewitt-MediumItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('CooperHewitt-MediumItalic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('CooperHewitt-MediumItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('CooperHewitt-MediumItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'CooperHewitt';
+  font-style: normal;
+  font-weight: bold;
+  src: url('CooperHewitt-Bold.eot'); /* IE9 Compat Modes */
+  src: url('CooperHewitt-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('CooperHewitt-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('CooperHewitt-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('CooperHewitt-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'CooperHewitt';
+  font-style: italic;
+  font-weight: bold;
+  src: url('CooperHewitt-BoldItalic.eot'); /* IE9 Compat Modes */
+  src: url('CooperHewitt-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('CooperHewitt-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('CooperHewitt-BoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('CooperHewitt-BoldItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
