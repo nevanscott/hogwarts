@@ -20,4 +20,15 @@ layout: page
 </ul>
  -->
 
+{% if page.briefs %}
+	<h2>Project Briefs</h2>
+	<ul>
+		{% for b in site.briefs %}
+			{% if b.project == page.number %}
+				<li><a href="{{ b.url }}">{{ b.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+{% endif %}
+
 {{ content }}

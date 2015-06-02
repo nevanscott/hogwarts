@@ -2,6 +2,7 @@
 title: Navigation
 week: 3
 number: 1
+date: June 22, 2015
 
 decks:
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDOHZkWXBmU1gzNnM&authuser=0

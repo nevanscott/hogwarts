@@ -2,6 +2,7 @@
 title: Web Layout 101
 week: 2
 number: 6
+date: June 17, 2015
 
 decks: 
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDRUUySThURUVHSnM&authuser=0

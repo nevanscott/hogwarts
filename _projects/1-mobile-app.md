@@ -1,14 +1,12 @@
 ---
 disabled: false
 title: Mobile App Prototype
-number: A
+number: 1
 weeks:
   - 1
 kickoff: June 8, 2015
 presentations: June 12, 2015
 ---
-
-[Project 1 Deck](https://drive.google.com/file/d/0B4_dUIH6mEXZZWhyVndxaHZQWDA/view?usp=sharing)
 
 ## Agenda
 
@@ -101,7 +99,7 @@ TK: image of sketches
 * Stick to a single idea
   * Beware of the 'one-stop shop' or Swiss Army knives.
 * Tell us the story
-  * 'Sell us the house, not the light switch.'
+  * "Sell us the house, not the light switch."
 
 ## Post-presentation requirements
 

@@ -2,6 +2,7 @@
 title: Interview Synthesis & Analysis
 week: 1
 number: 4
+date: June 9, 2015
 
 resources:
   articles:

@@ -2,6 +2,7 @@
 title: Sketching Interfaces
 week: 1
 number: 6
+date: June 10, 2015
 
 decks:
    jala: https://drive.google.com/a/generalassemb.ly/file/d/0B_NUjZdoLlXDNGEtU09RVWg4djQ/view?usp=sharing

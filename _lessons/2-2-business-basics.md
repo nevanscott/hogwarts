@@ -2,6 +2,7 @@
 title: Business Basics & Metrics
 week: 2
 number: 2
+date: June 15, 2015
 
 decks:
   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZUWsydmlBbkY1WTg/view?usp=sharing

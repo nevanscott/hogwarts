@@ -2,6 +2,7 @@
 title: Conducting User Research
 week: 1
 number: 3
+date: June 9, 2015
 
 decks:
   haba: https://drive.google.com/file/d/0B4_dUIH6mEXZazkyLVZtU2dDeUk/view?usp=sharing

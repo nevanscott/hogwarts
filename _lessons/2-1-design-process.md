@@ -2,6 +2,7 @@
 title: The Design Process
 week: 2
 number: 1
+date: June 15, 2015
 
 decks:
   jala: https://drive.google.com/open?id=0B_NUjZdoLlXDN2Z4dmE5el94aWc&authuser=0

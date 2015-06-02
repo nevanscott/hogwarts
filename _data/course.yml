@@ -10,6 +10,8 @@ gh_base: https://github.com/nevanscott/peppers/edit/gh-pages/
 
 start_date: June 8, 2015
 end_date: August 17, 2015
+holidays:
+  - July 3, 2015
 calendar:
   -
     month: June
@@ -25,4 +27,4 @@ calendar:
     month: August
     year: 2015
     start: 1
-    end: 21
+    end: 17

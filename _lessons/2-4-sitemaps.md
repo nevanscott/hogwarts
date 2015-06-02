@@ -2,6 +2,7 @@
 title: Sitemaps 101
 week: 2
 number: 4
+date: June 16, 2015
 
 decks:
    jala: https://drive.google.com/file/d/0B_NUjZdoLlXDbkF1d0t5VHFWMm8/view?usp=sharing

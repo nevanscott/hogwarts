@@ -2,6 +2,7 @@
 title: Introduction to Information Architecture
 week: 2
 number: 3
+date: June 16, 2015
 
 decks:
     jala: https://drive.google.com/open?id=0B_NUjZdoLlXDbEdLSG94aGFIRVU&authuser=0

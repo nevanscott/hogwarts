@@ -2,5 +2,35 @@
 layout: page
 title: Projects
 permalink: /projects/
-toc: true
+section: projects
 ---
+
+<h4>Projects</h4>
+<ol>
+{% for p in site.projects %}
+	{% if p.url == page.url %}
+		{% assign c = "current" %}
+	{% else %}
+		{% assign c = "" %}
+	{% endif %}
+	{% unless p.disabled %}
+	<li class="{{ c }}">
+		<a href="{{ p.url }}">{{ p.title }}</a>
+		<ul>
+			{% for b in site.briefs %}
+				{% if b.url == page.url %}
+					{% assign bc = "current" %}
+				{% else %}
+					{% assign bc = "" %}
+				{% endif %}
+				{% if b.project == p.number %}
+					{% unless b.disabled %}
+					<li class="{{ bc }}"><a href="{{ b.url }}">{{ b.title }}</a></li>
+					{% endunless %}
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</li>
+	{% endunless %}
+{% endfor %}
+</ol>

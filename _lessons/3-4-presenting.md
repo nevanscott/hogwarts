@@ -2,6 +2,7 @@
 title: Presenting Your Designs
 week: 3
 number: 4
+date: June 25, 2015
 
 decks: 
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDc0JUWFZJWXR1LWc&authuser=0

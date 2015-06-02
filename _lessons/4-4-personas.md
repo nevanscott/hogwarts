@@ -2,6 +2,7 @@
 title: Creating Personas and Scenarios
 week: 4
 number: 4
+date: July 1, 2015
 
 decks:
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDRDZKN29XU0ZNVUE&authuser=0

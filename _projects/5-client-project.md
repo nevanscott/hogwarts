@@ -1,7 +1,7 @@
 ---
 disabled: false
 title: Client Project
-number: E
+number: 5
 weeks:
   - 8
   - 9
@@ -9,4 +9,3 @@ weeks:
 kickoff: July 24, 2015
 presentations: August 13, 2015
 ---
-

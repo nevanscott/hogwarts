@@ -2,8 +2,7 @@
 title: Introduction to Prototyping
 week: 1
 number: 7
-
-
+date: June 10, 2015
 
 resources:
   apps:

@@ -2,6 +2,7 @@
 title: Interface Design Principles
 week: 5
 number: 1
+date: July 7, 2015
 
 decks:
   jala: https://drive.google.com/open?id=0B_NUjZdoLlXDSEtlRHFobmNkT1MzcWRpX0lzdW01TlQxS2VV&authuser=0

@@ -2,6 +2,7 @@
 title: Sketching User Flows & Screen Flows
 week: 1
 number: 5
+date: June 10, 2015
 
 decks:
   jala: https://drive.google.com/a/generalassemb.ly/file/d/0B_NUjZdoLlXDQW5PTDlyQ1dwTWs/view?usp=sharing

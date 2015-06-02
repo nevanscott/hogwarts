@@ -2,6 +2,7 @@
 title: Contextual Inquiry and User Interviewing
 week: 4
 number: 3
+date: June 30, 2015
 
 decks:
   jala: https://drive.google.com/open?id=0B_NUjZdoLlXDTGhCczVhUUNRSUU&authuser=0

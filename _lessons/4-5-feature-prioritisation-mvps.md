@@ -2,6 +2,7 @@
 title: Feature Prioritisation and MVPs
 week: 4
 number: 5
+date: July 2, 2015
 
 decks:
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDR1BIWVhjWExTSUk&authuser=0

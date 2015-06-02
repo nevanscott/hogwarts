@@ -2,6 +2,7 @@
 title: Introduction to Interaction Design
 week: 2
 number: 5
+date: June 17, 2015
 
 decks:
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDQ1JxalBjYkVEcDQ&authuser=0

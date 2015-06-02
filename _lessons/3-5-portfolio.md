@@ -2,6 +2,7 @@
 title: From Project to Portfolio
 week: 3
 number: 5
+date: June 25, 2015
 
 resources:
   articles:

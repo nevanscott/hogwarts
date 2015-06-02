@@ -2,6 +2,7 @@
 title: Wireframing
 week: 2
 number: 8
+date: June 19, 2015
 
 decks: 
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDdE9BVmhEcXdJdUU&authuser=0

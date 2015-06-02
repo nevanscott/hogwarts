@@ -2,6 +2,7 @@
 title: Sketch (software)
 week: 4
 number: 7
+date: July 6, 2015
 
 decks:
    jala: https://drive.google.com/open?id=0B4_dUIH6mEXZV3djc1VPNjJDaHc&authuser=0

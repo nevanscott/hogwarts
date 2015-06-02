@@ -2,6 +2,7 @@
 title: Recruiting Research Participants
 week: 4
 number: 1
+date: June 29, 2015
 
 decks:
   jala: https://drive.google.com/open?id=0B_NUjZdoLlXDNUpaTUp3bFQxVVU&authuser=0

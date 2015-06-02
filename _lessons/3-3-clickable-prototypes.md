@@ -2,6 +2,7 @@
 title: Creating Clickable Prototypes
 week: 3
 number: 3
+date: June 24, 2015
 
 resources:
   apps:

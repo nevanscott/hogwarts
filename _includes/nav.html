@@ -1,17 +1,3 @@
-<h4>Projects</h4>
-<ol>
-{% for p in site.projects %}
-	{% if p.url == page.url %}
-		{% assign c = "current" %}
-	{% else %}
-		{% assign c = "" %}
-	{% endif %}
-	{% unless p.disabled %}
-	<li class="{{ c }}"><a href="{{ p.url }}">{{ p.title }}</a></li>
-	{% endunless %}
-{% endfor %}
-</ol>
-
 <h4>Important Links</h4>
 <ul>
 	<li>
@@ -26,6 +12,66 @@
 		<a target="_blank" href="http://bit.ly/exitpeppers">Daily Exit Ticket</a>
 	</li>
 </ul>
+
+{% if page.section == 'projects' %}
+	<h4>Projects</h4>
+	<ol>
+	{% for p in site.projects %}
+		{% if p.url == page.url %}
+			{% assign c = "current" %}
+		{% else %}
+			{% assign c = "" %}
+		{% endif %}
+		{% unless p.disabled %}
+		<li class="{{ c }}">
+			<a href="{{ p.url }}">{{ p.title }}</a>
+			<ul>
+				{% for b in site.briefs %}
+					{% if b.url == page.url %}
+						{% assign bc = "current" %}
+					{% else %}
+						{% assign bc = "" %}
+					{% endif %}
+					{% if b.project == p.number %}
+						{% unless b.disabled %}
+						<li class="{{ bc }}"><a href="{{ b.url }}">{{ b.title }}</a></li>
+						{% endunless %}
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</li>
+		{% endunless %}
+	{% endfor %}
+	</ol>
+{% endif %}
+
+{% if page.section == 'lessons' %}
+	{% for w in site.weeks %}
+		{% unless w.disabled %}
+		<h4>
+			<small>Week {{ w.number }}</small>
+			<br>
+			{{ w.title }}
+		</h4>
+		<ol>
+		{% for p in site.lessons %}
+			{% if p.url == page.url %}
+				{% assign c = "current" %}
+			{% else %}
+				{% assign c = "" %}
+			{% endif %}
+			{% if p.week == w.number %}
+				<li class="{{ c }}">
+					<a href="{{ p.url }}">
+						{{ p.title }}
+					</a>
+				</li>
+			{% endif %}
+		{% endfor %}
+		</ol>
+		{% endunless %}
+	{% endfor %}
+{% endif %}
 
 {% for section in site.data.nav %}
   <h4>{{ section.section }}</h4>
@@ -49,49 +95,3 @@
     {% endfor %}
   </ul>
 {% endfor %}
-
-{% for w in site.weeks %}
-	{% unless w.disabled %}
-	<h4>
-		<small>Week {{ w.number }}</small>
-		<br>
-		{{ w.title }}
-	</h4>
-	<ol>
-	{% for p in site.lessons %}
-		{% if p.url == page.url %}
-			{% assign c = "current" %}
-		{% else %}
-			{% assign c = "" %}
-		{% endif %}
-		{% if p.week == w.number %}
-			<li class="{{ c }}">
-				<a href="{{ p.url }}">
-					{{ p.title }}
-				</a>
-			</li>
-		{% endif %}
-	{% endfor %}
-	</ol>
-	{% endunless %}
-{% endfor %}
-
-<h4>…More to Come!</h4>
-
-
-<!-- 
-<h4>Weeks</h4>
-<ol>
-{% for p in site.weeks %}
-	{% if p.url == page.url %}
-		{% assign c = "current" %}
-	{% else %}
-		{% assign c = "" %}
-	{% endif %}
-	{% unless p.disabled %}
-	<li class="{{ c }}"><a href="{{ p.url }}">{{ p.title }}</a></li>
-	{% endunless %}
-{% endfor %}
-</ol>
- -->
-

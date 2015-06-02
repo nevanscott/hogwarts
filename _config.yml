@@ -5,6 +5,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  briefs:
+    output: true
+    permalink: /:collection/:title/
   weeks:
     output: true
     permalink: /week-:name/
@@ -18,26 +21,34 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+      section: "projects"
+  -
+    scope:
+      path: ""
+      type: "briefs"
+    values:
+      section: "projects"
   -
     scope:
       path: ""
       type: "weeks"
     values:
       layout: "week"
-      section: "notes"
+      section: "lessons"
   -
     scope:
       path: ""
       type: "lessons"
     values:
       layout: "lesson"
-      section: "notes"
+      section: "lessons"
 relative_permalinks: false
 markdown: redcarpet
 future: true
 redcarpet:
   extensions:
-    - 'autolink'
-    - 'smart'
-    - 'hard_wrap'
-    - 'tables'
+    - autolink
+    - smart
+    - hard_wrap
+    - tables
+    - with_toc_data

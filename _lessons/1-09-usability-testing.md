@@ -2,6 +2,7 @@
 title: Usability Testing
 week: 1
 number: 9
+date: June 11, 2015
 
 decks:
    jala: https://drive.google.com/a/generalassemb.ly/file/d/0B_NUjZdoLlXDbjQ4T1JpRVVyeWs/view?usp=sharing

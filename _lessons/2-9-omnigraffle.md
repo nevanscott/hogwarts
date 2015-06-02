@@ -2,6 +2,7 @@
 title: Omnigraffle
 week: 2
 number: 9
+date: June 19, 2015
 
 resources:
   guides:

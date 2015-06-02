@@ -30,11 +30,11 @@
                 {% endif %}
                 <span class="day">{{ i }}</span>
               </div>
-              {% for post in site.agenda %}
-                {% if post.class_date %}
-                  {% assign class_date_xml = post.class_date | date_to_string | date_to_xmlschema %}
+              {% for post in site.lessons %}
+                {% if post.date %}
+                  {% assign class_date_xml = post.date | date_to_string | date_to_xmlschema %}
                   {% if class_date_xml == date_xml %}
-                    <div class="agenda">
+                    <div class="class">
                     	<a href="{{ site.baseurl }}{{ post.url }}">
                     		<div class="label">Class</div>
                     		{{ post.title }}
@@ -49,8 +49,8 @@
 									{% if post_date_xml == date_xml %}
 										<div class="project">
 											<a href="{{ site.baseurl }}{{ post.url }}">
-												<div class="label">Kickoff</div>
-												Project {{ post.number }}
+												<div class="label">Project {{ post.number }}</div>
+												Kickoff
 											</a>
 										</div>
 									{% endif %}
@@ -59,12 +59,22 @@
                   {% assign due_date_xml = post.presentations | date_to_string | date_to_xmlschema %}
                   {% if due_date_xml == date_xml %}
                     <div class="project">
-                    	<a href="{{ site.baseurl }}{{ post.url }}">
-                    		<div class="label">Presentations</div>
-												Project {{ post.number }}
-                    	</a>
+											<a href="{{ site.baseurl }}{{ post.url }}">
+												<div class="label">Project {{ post.number }}</div>
+												Presentations
+											</a>
                     </div>
                   {% endif %}
+                {% endif %}
+                {% if post.kickoff and post.presentations %}
+                	{% if date_xml > post_date_xml and date_xml < due_date_xml %}
+                    <div class="project">
+											<a href="{{ site.baseurl }}{{ post.url }}">
+												<div class="label">Project {{ post.number }}</div>
+												Workshop
+											</a>
+                    </div>
+                	{% endif %}
                 {% endif %}
               {% endfor %}
             </td>

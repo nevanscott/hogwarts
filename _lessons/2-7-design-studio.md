@@ -2,6 +2,7 @@
 title: Introduction to Design Studio and Iteration
 week: 2
 number: 7
+date: June 18, 2015
 
 decks:
    jala: https://drive.google.com/open?id=0B_NUjZdoLlXDbS1rSjFwRWtYVHc&authuser=0

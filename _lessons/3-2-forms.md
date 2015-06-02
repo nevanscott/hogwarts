@@ -2,6 +2,7 @@
 title: Form Design
 week: 3
 number: 2
+date: June 23, 2015
 
 decks:
     jala: https://drive.google.com/open?id=0B_NUjZdoLlXDYXNEUTZqZ2pBeEU&authuser=0

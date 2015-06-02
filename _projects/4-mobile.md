@@ -1,20 +1,19 @@
 ---
 disabled: false
-title: Native / Responsive / Wearable
-number: D
+title: Make it Mobile
+number: 4
 weeks:
   - 6
   - 7
-kickoff: July 13, 2015
+kickoff: July 10, 2015
 presentations: July 24, 2015
 ---
-
-* [Brief](https://drive.google.com/open?id=0B_NUjZdoLlXDVUk5OUtEVllrcUU&authuser=0)
 
 
 Project 4 is about exploring a problem/area of opportunity for an existing brand. (You get to choose the problem and the brand!). It’s also about starting to explore and work with technical constraints. 
 
 You will be utilizing the tools you’ve already practiced, including:
+
 * Competitive/comparative analysis
 * User research
 * Personas
@@ -25,6 +24,7 @@ You will be utilizing the tools you’ve already practiced, including:
 * Testing
 
 You will also be performing new activities, including:
+
 * Choosing an appropriate platform (responsive website, native app, wearable) based on the problem and target audience 
 * Researching technical constraints
 * Writing a proposal

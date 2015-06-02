@@ -2,6 +2,7 @@
 title: Paper Prototyping
 week: 1
 number: 8
+date: June 11, 2015
 
 decks:
    jala: https://drive.google.com/a/generalassemb.ly/file/d/0B_NUjZdoLlXDRHRiODVCT1FHcHc/view?usp=sharing
