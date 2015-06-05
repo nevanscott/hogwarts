@@ -7,5 +7,5 @@ weeks:
   - 9
   - 10
 kickoff: July 24, 2015
-presentations: August 13, 2015
+presentations: August 14, 2015
 ---
